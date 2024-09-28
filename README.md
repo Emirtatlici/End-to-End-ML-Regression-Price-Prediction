@@ -5,7 +5,7 @@ The primary objective of this project is to develop a machine learning model tha
 
 This predictive capability will assist stakeholders, including dealerships and potential buyers, in making informed decisions regarding car purchases and sales.
 
-Check for the Analysis Report for the Model I built. 
+Check for the Analysis Report for more Details about the Model I built. 
 ---
 
 ## Project Evaluation Metric: RMSE
